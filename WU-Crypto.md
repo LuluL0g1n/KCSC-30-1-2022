@@ -42,7 +42,9 @@ ciphertext = encrypt(flag,key)
 f = open("advanced_caesar_output.txt","w")
 print(ciphertext,file=f)
 ```
+
 [advanced_caesar_output.txt](https://github.com/LuluL0g1n/KCSC-30-1-2022/files/7968692/advanced_caesar_output.txt)
+
 ## Cách giải
 Nhìn tên đề bài là biết phải sử dụng mã Caesar, nhanh chóng đưa lên https://www.dcode.fr/caesar-cipher
 
