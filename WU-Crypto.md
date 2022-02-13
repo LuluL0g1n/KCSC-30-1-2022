@@ -191,7 +191,8 @@ cipher = xor(flag,key)
 f = open("Rand0m_output.txt","w")
 print(cipher,file=f)
 ```
-
+## Cách giải
+https://github.com/dungbn123/KMA-Recruit-WriteUp/blob/main/Rand0m.md
 # China
 ## Đề bài
 [china_output.txt](https://github.com/LuluL0g1n/KCSC-30-1-2022/files/7969010/china_output.txt)
@@ -253,3 +254,5 @@ print(f"{ciphertext = }")
 print(f"{encrypted_flag = }")
 ```
 nc -v 45.77.39.59 3900
+## Cách giải
+https://github.com/phamthanh29/WriteUp/blob/main/KCSC%20-%20Recruit%20Members/writeup.md
